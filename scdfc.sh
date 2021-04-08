@@ -23,7 +23,7 @@ sleep 1
 echo "::::::::::::::::::::::::::::::::::::::::::::::::::::"
 echo "(#)   Author    : MR VIRUS SPM              (#)"
 echo "(#)   Team      : WHITE CYBER UNION         (#)"
-echo "(#)   Script    : 100 SCRIPT DEFACE         (#)"
+echo "(#)   Script    : 20  SCRIPT DEFACE         (#)"
 echo "::::::::::::::::::::::::::::::::::::::::::::::::::::"
 echo $red
 sleep 2
